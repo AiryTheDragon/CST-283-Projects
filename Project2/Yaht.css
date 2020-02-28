@@ -1,0 +1,15 @@
+.root {
+    -fx-font-family: serif;
+    -fx-font-size: 11pt;
+    -fx-background-color:  green;
+}
+
+.label {
+    -fx-text-fill: yellow;
+}
+
+.text-area {
+    -fx-background-color:  green;
+}
+
+
