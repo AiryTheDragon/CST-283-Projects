@@ -1,0 +1,12 @@
+1,Airothian Shedinn,Paladin,2,None,0,751,Golden dragonborn,Noble,Lawful Good,Michael,18,11,14,10,10,16,10,19,19
+2,Thia,Wizard,2,None,0,693,High elf,Acolyte,Chaotic Good,Liberty,10,15,14,16,12,8,13,12,12
+3,Andraste Nailo,Druidic,2,None,0,751,Wood elf,Hermit,Chaotic Good,Bethany,12,16,15,13,17,13,15,16,19
+4,Dorum Konselgen,Fighter,3,Eldrich Knight,3,1000,Orc,Bounty Hunter,Chaotic Good,Daniel,9,18,14,15,10,6,10,19,39
+5,Mara,Rogue,2,None,0,764,Drow,Criminal,True Neutral,Liberty,7,20,14,12,16,14,13,16,17
+6,Airothian Defender,Fighter,2,None,0,751,Golden dragonborn,Soldier,Lawful Good,Jonathan,17,14,15,11,13,11,11,16,20
+7,Ravelle,Wild,2,None,0,751,Wood elf,None,Lawful Good,Autumn,11,14,15,12,16,15,13,12,14
+8,Mei,Fighter,3,None,0,1116,Human,Folk hero,Lawful good,Suraya,14,16,15,11,13,9,13,14,32
+9,Joe Average,None,0,None,0,0,Human,Peasant,True neutral,Michael,10,10,10,10,10,10,10,10,3
+10,Jane Average,None,0,None,0,0,Human,Peasant,True neutral,Michael,9,11,9,10,10,11,10,10,2
+11,Junky Person,Junk,0,None,0,0,Junk,Junk,True neutral,Michael,10,10,10,10,10,10,10,10,3
+12,Someone,Fighter,1,Thinker,1,1,Human,The Void,Unknown,Michael,16,14,12,8,6,4,8,12,11
