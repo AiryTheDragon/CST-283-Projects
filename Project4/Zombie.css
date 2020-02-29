@@ -1,0 +1,15 @@
+.root {
+    -fx-font-family: monospace;
+    -fx-font-size: 11pt;
+    -fx-background-color:  orange;
+}
+
+.label {
+    -fx-text-fill: blue;
+}
+
+.text-area {
+    -fx-background-color:  orange;
+}
+
+
