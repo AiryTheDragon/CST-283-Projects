@@ -1,0 +1,15 @@
+.root {
+    -fx-font-family: monospace;
+    -fx-font-size: 11pt;
+    -fx-background-color:  blue;
+}
+
+.label {
+    -fx-text-fill: black;
+}
+
+.text-area {
+    -fx-background-color:  green;
+}
+
+
